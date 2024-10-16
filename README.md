@@ -1,7 +1,3 @@
-Sure! Here's another sample for your GitHub profile README:
-
----
-
 # 👋 Hi, I'm Akash Sharma!
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
@@ -45,7 +41,3 @@ A brief description of what this project is about.
 ## 💬 Let's Collaborate!
 
 I’m always open to collaboration on interesting projects. Feel free to reach out if you have an exciting idea or just want to chat about technology.
-
----
-
-Replace the placeholders (e.g., `[Your Name]`, `yourusername`, `youremail@example.com`) with your actual information. Let me know if you need any adjustments or additional sections!
