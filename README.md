@@ -9,9 +9,9 @@ I am a dedicated software developer with a strong interest in Java development. 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** C, Python, Java
-- **Frameworks:** [e.g., React
+- **Frameworks:** SpringMVC
 - **Tools:** Git,  VSCode
-- **Platforms:** [e.g., AWS]
+- 
 
 ## 🌱 What I'm Currently Learning
 
@@ -26,17 +26,15 @@ I am currently diving deep into:
 ## 🔭 Featured Projects
 
 ### [Project 1: Awesome Project](https://github.com/yourusername/project1)
-A brief description of what this project is about.
+A Task Management System backend with use of Spring MVC,PostgreSQL.
 
-### [Project 2: Another Cool Project](https://github.com/yourusername/project2)
-A brief description of what this project is about.
+
 
 ## 🤝 Connect with Me
 
 - [Email](mailto:akki030605@gmail.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Blog/Website](https://yourwebsite.com)
+- [LinkedIn]((https://www.linkedin.com/in/akash-sharma-95b984291/))
+  
 
 ## 💬 Let's Collaborate!
 
