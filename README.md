@@ -25,7 +25,7 @@ I am currently diving deep into:
 
 ## 🔭 Featured Projects
 
-### [Project 1: Awesome Project](https://github.com/yourusername/project1)
+### [Project 1: Task Management System](https://github.com/Akash030605/TaskManagementSystem.git)
 A Task Management System backend with use of Spring MVC,PostgreSQL.
 
 
