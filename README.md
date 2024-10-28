@@ -11,17 +11,13 @@ I am a dedicated software developer with a strong interest in Java development. 
 - **Languages:** C, Python, Java
 - **Frameworks:** SpringMVC
 - **Tools:** Git,  VSCode
-- 
+  
 
 ## 🌱 What I'm Currently Learning
 
 I am currently diving deep into:
 - FULL STACK JAVA DEV: JAVA + JSP + SPRING + BOOT + JS + REACT
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash030605&layout=compact&theme=dracula)
 
 # 👋 Hi, I'm Akash!
 
