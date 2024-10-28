@@ -23,6 +23,11 @@ I am currently diving deep into:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash030605&layout=compact&theme=dracula)
 
+# Akash's GitHub Stats
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash030605&theme=radical)
+
+
 ## 🔭 Featured Projects
 
 ### [Project 1: Task Management System](https://github.com/Akash030605/TaskManagementSystem.git)
