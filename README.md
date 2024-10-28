@@ -23,10 +23,18 @@ I am currently diving deep into:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash030605&layout=compact&theme=dracula)
 
-# Akash's GitHub Stats
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash030605&theme=radical)
+# 👋 Hi, I'm Akash!
 
+## 🏆 GitHub Stats
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&hide_border=true&count_private=true&theme=radical&bg_color=30,000000,2c3e50)
+
+## 🌍 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash030605&layout=compact&hide_border=true&theme=radical&bg_color=30,000000,2c3e50)
+
+## 🎨 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash030605&theme=radical&hide_border=true&background=00000000)
+
+---
 
 ## 🔭 Featured Projects
 
