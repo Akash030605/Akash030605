@@ -18,9 +18,6 @@ I am a dedicated software developer with a strong interest in Java development. 
 I am currently diving deep into:
 - FULL STACK JAVA DEV: JAVA + JSP + SPRING + BOOT + JS + REACT
 
-
-# 👋 Hi, I'm Akash!
-
 ## 🏆 GitHub Stats
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash030605&show_icons=true&hide_border=true&count_private=true&theme=radical&bg_color=30,000000,2c3e50)
 
