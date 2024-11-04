@@ -1,6 +1,8 @@
+
+
 # 👋 Hi, I'm Akash Sharma!
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Akash030605?style=social) ![GitHub stars](https://img.shields.io/github/stars/Akash030605?style=social)
 
 ## 🧑‍💻 About Me
 
@@ -9,9 +11,8 @@ I am a dedicated software developer with a strong interest in Java development. 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** C, Python, Java
-- **Frameworks:** SpringMVC
-- **Tools:** Git,  VSCode
-  
+- **Frameworks:** Spring MVC, Spring Boot
+- **Tools:** Git, VSCode
 
 ## 🌱 What I'm Currently Learning
 
@@ -27,21 +28,20 @@ I am currently diving deep into:
 ## 🎨 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash030605&theme=radical&hide_border=true&background=00000000)
 
----
 
 ## 🔭 Featured Projects
 
-### [Project 1: Task Management System](https://github.com/Akash030605/TaskManagementSystem.git)
-A Task Management System backend with use of Spring MVC,PostgreSQL.
-
-
+<!-- PROJECTS:START -->
+<!-- This section will be automatically updated with your latest projects by GitHub Actions -->
+<!-- PROJECTS:END -->
 
 ## 🤝 Connect with Me
 
-- [Email](mailto:akki030605@gmail.com)
-- [LinkedIn]((www.linkedin.com/in/akash-sharma-95b984291))
-  
+- [Email Me](mailto:akki030605@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/akash-sharma-95b984291)
 
 ## 💬 Let's Collaborate!
 
 I’m always open to collaboration on interesting projects. Feel free to reach out if you have an exciting idea or just want to chat about technology.
+
+
