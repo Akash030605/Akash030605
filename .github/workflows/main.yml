@@ -1,0 +1,19 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour to keep the README up-to-date
+  workflow_dispatch: # Allows manual trigger of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README with Projects
+        uses: koj-co/update-readme@v1
+        with:
+          readme-path: ./README.md
+          repositories: 'Akash030605'
