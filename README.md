@@ -39,7 +39,7 @@ A Task Management System backend with use of Spring MVC,PostgreSQL.
 ## 🤝 Connect with Me
 
 - [Email](mailto:akki030605@gmail.com)
-- [LinkedIn]((https://www.linkedin.com/in/akash-sharma-95b984291/))
+- [LinkedIn](www.linkedin.com/in/akash-sharma-95b984291)
   
 
 ## 💬 Let's Collaborate!
