@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Akash030605?style=social) ![GitHub stars](https://img.shields.io/github/stars/Akash030605?style=social)
 
-
+---
 
 ## 🧑‍💻 About Me
 
@@ -53,11 +53,8 @@ Here are some of my favorite projects that showcase my skills and passion:
 ### [Task Management System](https://github.com/Akash030605/TaskManagementSystem.git)
 An efficient backend solution for task management, built with Spring MVC and PostgreSQL. Designed to handle CRUD operations smoothly with high data integrity.
 
-### [Women Safety Analytics – Protecting Women from Safety Threats](https://github.com/Akash030605/WomenSafetyAnalytics.git)
-A real-time analytics tool to identify safety threats for women using machine learning models. This project includes **person detection, gender classification**, and **gesture-based SOS alerting**.
-
-### [Conversational Image Recognition Chatbot](https://github.com/Akash030605/ConversationalImageChatbot.git)
-Combining NLP and computer vision, this chatbot can recognize objects in images and provide detailed responses. Built with a blend of Java, Spring Boot, and Python-based deep learning models.
+### [Predictive Healthcare Platform](https://github.com/Akash030605/Health-backend.git)
+A backend solution designed to identify health risks, prevent diseases, and provide personalized healthcare recommendations. Built using Java Spring Boot, it integrates a Python-based AI model for predictive analysis, ensuring data is stored securely in local storage.
 
 ---
 
@@ -74,4 +71,4 @@ I'm always open to collaborating on exciting projects, especially in **Java deve
 
 --- 
 
-I hope this format feels professional and impactful. The use of headings, sections, and icons helps create a structured and visually engaging layout. Let me know if you’d like to adjust anything!
+
